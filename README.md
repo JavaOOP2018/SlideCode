@@ -1,2 +1,2 @@
 # SlideCode
-Sourecode used on the 
+Sourecode used on the Slides in the course Object-Oriented Programming in Java on openSAP
